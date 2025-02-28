@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\pointreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\pointreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|c:\\users\\anduril\\source\\repos\\webapplication3\\webapplication3\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B83B4-4B12-4133-9C84-0366BBFCFF67}|WebApplication3\\GIS_1.0.csproj|solutionrelative:webapplication3\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\WriteRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\ReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:04.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:59:09.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\PointReadRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\PointReadRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\PointReadRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\PointReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication3\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:37:13.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:34:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication3\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:27.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\ApiService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\ApiService.cs",
+              "RelativeToolTip": "WebApplication3\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:16:28.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication3\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:34:54.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:34:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\PointController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\PointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:29:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Anduril\\source\\repos\\WebApplication3\\WebApplication3\\ApiResponse.cs",
+              "RelativeToolTip": "WebApplication3\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:20:00.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
